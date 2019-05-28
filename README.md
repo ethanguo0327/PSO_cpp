@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+copy from here:https://github.com/lava/matplotlib-cpp,and here:https://github.com/duaraghav8/SwarmOpt.
+just a combination of this two.
+
 (Fine, I'll admit. The Project Structure is pretty messed up! We made it in a bit of a rush - we believe the later we deploy, the older we are, the wiser we are. Will fix this soon:) )
 
 
@@ -104,3 +108,7 @@ Note: Because of the Database connectivity feature, the library currently suppor
 		->Rastrigin
 
 	Apart from these, the user may supply an objective function of their own, which will be minimized.
+=======
+# PSO_cpp
+PSO algorithm by cpp,test function:rosenbrock,griewank,sphere,rastrigin.
+>>>>>>> origin/master
